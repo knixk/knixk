@@ -1,4 +1,4 @@
-<h1>Hey 👋 I'm Kanishk</h1> <h4>A 2nd year Computer Science student.</h4>
+<h1>Hey 👋, I'm Kanishk</h1> <h4>A 2nd year Computer Science student.</h4>
 
 
 Currently I'm learning about:

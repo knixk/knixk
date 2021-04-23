@@ -1,4 +1,4 @@
-<h1>Hi! I'm Kanishk. 😊</h1>
+<h1>Hey 👋 I'm Kanishk, A 2nd year Computer Science student.</h1>
 
 
 Currently I'm learning about:

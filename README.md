@@ -3,7 +3,7 @@
 
 Currently I'm working on:
 
-* Data structures.
+* Data Structures.
 
 * Web Development.
 

@@ -13,6 +13,8 @@ Currently I'm learning about:
 
 
 My E-mail: knixk15@gmail.com
+Blogs: knixk.medium.com
+
 
 
 

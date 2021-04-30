@@ -12,10 +12,9 @@ Currently I'm learning about:
 
 
 
-My E-mail: knixk15@gmail.com
+My E-mail: knixk15@gmail.com 
+
 Blogs: https://knixk.medium.com/
-
-
 
 
 

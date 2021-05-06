@@ -10,6 +10,14 @@ Currently I'm learning about:
 
 
 
+Ask me about:
+
+* Python
+* HTML/CSS/Javascript
+
+
+
+
 My E-mail: knixk15@gmail.com 
 
 Medium: https://knixk.medium.com/

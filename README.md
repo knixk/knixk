@@ -26,4 +26,4 @@ Medium: https://knixk.medium.com/
 ![](https://komarev.com/ghpvc/?username=knixk&color=blueviolet)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knixk&theme=tokyonight)

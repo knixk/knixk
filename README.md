@@ -4,7 +4,6 @@
 Currently I'm learning about:
 
 * Data Structures.
-
 * Web Development.
 
 

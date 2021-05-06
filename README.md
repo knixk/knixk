@@ -7,8 +7,6 @@ Currently I'm learning about:
 
 * Web Development.
 
-* Machine Learning.
-
 
 
 

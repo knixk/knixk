@@ -13,7 +13,7 @@ Ask me about:
 
 * Python
 * HTML/CSS/Javascript
-
+* React
 
 
 

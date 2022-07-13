@@ -11,9 +11,9 @@ Currently I'm learning about:
 
 Ask me about:
 
-* Python
-* HTML/CSS/Javascript
-* React
+* Python.
+* HTML/CSS/Javascript.
+* MERN Stack.
 
 
 

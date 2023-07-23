@@ -1,10 +1,10 @@
-<h1>Hey 👋, I'm Kanishk</h1> <h4>A final year Computer Science student at MIT Indore.</h4>
+<h1>Greetings, I'm Kanishk</h1> <h4>A final year Computer Science student at MIT Indore.</h4>
 
+Currently I'm learning:
 
-Currently I'm learning about:
-
-* Data Structures.
-* Web Development.
+* Data Structures & Algorithms.
+* Full Stack Development.
+* Python & ML
 
 
 

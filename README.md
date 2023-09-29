@@ -5,6 +5,7 @@ Currently I'm learning:
 * Data Structures & Algorithms.
 * Full Stack Development.
 * Python & ML
+* Data Analysis
 
 
 

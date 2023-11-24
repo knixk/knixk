@@ -6,6 +6,8 @@ Currently I'm learning:
 * Full Stack Development.
 * Python & ML
 * Data Analysis
+* Data Engineering
+* GCP
 
 
 

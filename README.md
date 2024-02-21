@@ -1,4 +1,4 @@
-<h1>Greetings, I'm Kanishk</h1> <h4>A final year Computer Science student at MIT Indore.</h4>
+<h1>Greetings, I'm Kanishk</h1> <h4>A Computer Science graduate from MIT Indore.</h4>
 
 Currently I'm learning:
 
